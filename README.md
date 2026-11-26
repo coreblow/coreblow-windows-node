@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been superseded by CoreBlow Desktop in [coreblow/coreblow](https://github.com/coreblow/coreblow) and archived.
+
 # CoreBlow Windows Node
 
 Windows companion suite for CoreBlow.
